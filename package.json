@@ -1,0 +1,15 @@
+{
+  "name": "host-schedule-slackbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Curtis Li",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.7",
+    "query-string": "^6.8.2"
+  }
+}
